@@ -1,2 +1,2 @@
 #!/bin/bash
-gython3 ./$PYCODE
+python3 ./$PYCODE
