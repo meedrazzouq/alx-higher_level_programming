@@ -5,5 +5,6 @@ from variable_load_5.py import a
 def printvar():
     print(a)
 
+
 if __name__ == "__main__":
     printvar()
